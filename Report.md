@@ -1,4 +1,4 @@
-# Midterm Project: Assessing Mathematics Learning in Higher Education
+# Assessing Mathematics Learning in Higher Education
 
 ## I. Introduction
 This research analyzes the "Assessing Mathematics Learning in Higher Education" dataset from the UCI Machine Learning Repository. The goal is to find patterns in student responses using clustering and forecast student performance using regression analysis.
